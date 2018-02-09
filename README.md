@@ -1,6 +1,5 @@
 # MAP569_assignment
 
 ## To do:
-- review the algorithm of SRVG (because the plot is hella weird)
-- implement Logistic Regression model
+- implement Logistic Regression model --> **Done**, but to recheck for the logic
 - answer the final questions
